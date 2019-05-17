@@ -2,11 +2,11 @@ import * as React from 'react';
 import { Text } from 'react-native';
 import { BottomNavigation } from 'react-native-paper';
 import Weather from "../screens/Weather";
-// import Rain from '../screens/Rain'
+import Animation from '../screens/Animation'
 
 const MusicRoute = () => <Weather/>;
 
-const AlbumsRoute = () => <Text>Recents</Text>;
+const AlbumsRoute = () => <Animation />;
 
 const RecentsRoute = () => <Text>Recents</Text>;
 

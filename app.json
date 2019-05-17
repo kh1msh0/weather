@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "weather2",
-    "slug": "weather2",
+    "name": "Weather",
+    "slug": "weather",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
